@@ -11,13 +11,6 @@ CoolBot is a powerful, customizable Discord bot built with [discord.js](https://
 
 - 👥 **Member Count Tracking**
 - ✅ **User Verification Button**
-- 📨 **DM Logger**
-- 💬 **Impersonate Users (via webhook)**
-- 🛠️ **Dev-only Commands (`/impersonate`, `/listguild`)**
-
-## 📸 Screenshots
-
-> _(Optional)_ Add screenshots or GIFs of the bot in action here!
 
 ## 🚀 Getting Started
 
