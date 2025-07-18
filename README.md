@@ -1,6 +1,6 @@
 # 🤖 CoolBot
 
-CoolBot is a private, custom-built Discord bot designed by [LauritzGames](https://lauritz.games) to enhance server functionality with Fun Commands, user management.
+CoolBot is a pulic, custom-built Discord bot designed by [LauritzGames](https://lauritz.games) to enhance server functionality with Fun Commands, user management.
 
 ---
 
